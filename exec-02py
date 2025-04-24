@@ -1,0 +1,4 @@
+altura = float(input("Digite uma altura:"))
+base = float(input("Digite uma base:"))
+resultado = altura + base
+print(resultado)
